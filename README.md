@@ -20,3 +20,6 @@ Ideal for landing pages, SaaS websites, or any project that requires clear and a
 - Google Fonts (Poppins)
 - Font Awesome (for icons)
 ---
+## 🧑‍💻 Author
+
+**LOKESH K**
