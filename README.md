@@ -3,7 +3,7 @@
 A modern, responsive pricing plans section built with HTML and CSS. 
 Ideal for landing pages, SaaS websites, or any project that requires clear and attractive pricing tiers.
 
-## Live Demo : 
+## Live Demo : https://lokesh-soft-dev.github.io/pricing-plans-ui/
 ---
 ## ✨ Features
 
